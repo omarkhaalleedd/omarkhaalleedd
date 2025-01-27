@@ -2,8 +2,7 @@
 
 <p align='start'>
 
-- Power BI Developer.
-- Bachelor of Civil Engineering ,Cairo University (2026).
+- Power BI Enginner || Data Analyst
 - Power BI | Excel | Tableau | SQL | Python.
 </p>
 
