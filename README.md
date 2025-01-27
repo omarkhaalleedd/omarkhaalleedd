@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align='center'>Hi there, It's Omar Khaled</h1>
 
-<!--
-**omarkhaalleedd/omarkhaalleedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='start'>
 
-Here are some ideas to get you started:
+- Power BI Developer.
+- Bachelor of Civil Engineering ,Cairo University (2026).
+- Power BI | Excel | Tableau | SQL | Python.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align='center'>
+<a href="mailto:omar3khaled.74@gmail.com">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/omar-khaled-62416b256">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
