@@ -2,7 +2,7 @@
 
 <p align='start'>
 
-- Power BI Enginner || Data Analyst
+- Power BI Engineer || Data Analyst
 - Power BI | Excel | Tableau | SQL | Python.
 </p>
 
